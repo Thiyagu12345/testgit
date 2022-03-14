@@ -1,7 +1,1 @@
 welcome to 1st file
-
-
-
-
-
-adding 2nd file in gitrepo
